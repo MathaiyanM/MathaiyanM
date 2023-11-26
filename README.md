@@ -8,7 +8,6 @@
 - 💬 Talk to me about **Data Collection,Data Cleaning and Preprocessing,Data Visualization**
 
 - 📫 How to reach me **mathaiyan17052000@gmail.com**
-- 
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mathaiyanm&label=Profile%20views&color=0e75b6&style=flat" alt="mathaiyanm" /> </p>
 
