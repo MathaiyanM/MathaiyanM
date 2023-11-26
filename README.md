@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mathaiyan.M</h1>
 <h3 align="center">A passionate Data Analyst</h3>
 
-<p align="center">Thank You for taking the time to view my GitHub Profile 😄.As a data enthusiast and analyst, I am passionate about transforming raw data into actionable insights. My GitHub repositories reflect my commitment to data analysis, statistical modeling. I thrive on solving real-world problems using data-driven approaches and collaborating with the open-source community..</p>
+### <p align="center">Thank You for taking the time to view my GitHub Profile 😄.As a data enthusiast and analyst, I am passionate about transforming raw data into actionable insights. My GitHub repositories reflect my commitment to data analysis, statistical modeling. I thrive on solving real-world problems using data-driven approaches and collaborating with the open-source community..</p>
 
 - 👯 I'm open to collaboration on **data analysis projects**
 
