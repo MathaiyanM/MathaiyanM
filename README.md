@@ -27,3 +27,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mathaiyanm&" alt="mathaiyanm" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mathaiyanm&show_icons=true&locale=en" alt="mathaiyanm" /></p>
+
